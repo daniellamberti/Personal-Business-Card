@@ -6,11 +6,11 @@ body {
     }
 
 .avatar {
-    width: 120px;
+    width: 170px;
 }
 
 .card {
-    width: 400px;
+    width: 320px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
